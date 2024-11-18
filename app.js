@@ -7,3 +7,4 @@ function saludar (nombre, edad){
 const nombreUsuario = "Estudiante";
 console.log(saludar (nombreUsuario));
 
+console.log("mejora aplicada");
